@@ -27,7 +27,7 @@ Model Architecture: A CNN architecture is designed, comprising convolutional lay
 
 Training: The model is trained using the labeled dataset, optimizing for classification accuracy and minimizing loss through techniques Adam optimization.\
 
-Evaluation: The trained model is evaluated on the validation set to assess performance metrics such as accuracy, precision, recall, and F1-score.
+Evaluation: The trained model is evaluated on the validation set to assess performance metrics such as accuracy, precision, recall, and F1-score. This evaluation conclude CrackDetection.ipynb file.
 
 Testing: Finally, the model is tested on the unseen test set to evaluate its generalization capability and real-world performance.
 
